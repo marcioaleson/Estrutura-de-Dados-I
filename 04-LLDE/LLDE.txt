@@ -1,0 +1,162 @@
+  --------------------------------------------------
+ | ESTE PROGRAMA MOSTRA AS OPERAÄÂES BµSICAS        | 
+ | SOBRE LISTA LINEAR DUPLAMENTE ENCADEADA [LLDE]:  |
+ | [INSERIR]: INICIO, MEIO E FIM                    |
+ | [REMOVER]: INICIO, MEIO E FIM                    |
+ | [PESQUISAR]: POR POSIÄ∆O E POR ELEMENTO          |
+  --------------------------------------------------
+
+ Pressione ENTER para continuar... 
+. 
+ 
+  ----------------------------------------
+ | EM CADA PASSO DO PROGRAMA AS VARIAVEIS |
+ | ENVOLVIDAS S∆O EVIDENCIADAS PARA ASSIM |
+ | MELHORAR O ENTENDIMENTO DO ALGORITMO   |
+  ----------------------------------------
+
+ Pressione ENTER para continuar... 
+.
+ 
+                 [ARRANJO ê INICIALIZADO:]
+
+
+. 
+
+ -----------------------------------------------------------------------
+|									|
+|                 [INSERIR INICIO]					|
+|									|
+|									|
+.
+ 
+|   ----------------------------------------------			|
+|  | O elemento 'A' e inserido no inicio da lista |			|
+|  | e a variavel disponivel e atualizada         |			|
+|   ----------------------------------------------			|
+ -----------------------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -----------------------------------------------------------------------
+|									|
+|                 [INSERIR FIM]						|
+|									|
+|									|
+.
+
+|   ----------------------------------------------			|
+|  | O elemento 'B'e inserido no final da lista	  |			|
+|  | o apontador(prox) do ultimo elemento e       |			|
+|  | atualizado juntamente com o apontador(ant)   |			|
+|  | antecessor do elemento                       |			|
+|   ----------------------------------------------			|
+ -----------------------------------------------------------------------
+ 
+ Pressione ENTER para continuar...
+.
+
+ -----------------------------------------------------------------------
+|									|
+|                 [INSERIR FIM]						|
+|									|
+|									|
+.
+
+|   ----------------------------------------------			|
+|  | O elemento 'C'e inserido no final da lista	  |			|
+|  | o apontador(prox) do ultimo elemento e       |			|
+|  | atualizado juntamente com o apontador(ant)   |			|
+|  | antecessor do elemento                       |			|
+|   ----------------------------------------------			|
+ -----------------------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -----------------------------------------------------------------------
+|									|
+|                 [INSERIR FIM]						|
+|									|
+|									|
+.
+
+|   ----------------------------------------------			|
+|  | O elemento 'D'e inserido no final da lista	  |			|
+|  | o apontador(prox) do ultimo elemento e       |			|
+|  | atualizado juntamente com o apontador(ant)   |			|
+|  | antecessor do elemento                       |			|
+|   ----------------------------------------------			|
+ -----------------------------------------------------------------------
+ Pressione ENTER para continuar...
+.
+
+ -----------------------------------------------------------------------
+|									|
+|                 [INSERIR MEIO]					|
+|									|
+|									|
+.
+
+|   -------------------------------------------------			|
+|  | O elemento 'X'e inserido no meio da lista	     |			|
+|  | ja neste caso, e necessario atualizar o         |			|
+|  | apontador(prox) do antecessor e o apontador(ant)|			|
+|  | do sucessor                                     |			|
+|   -------------------------------------------------			|
+ -----------------------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -----------------------------------------------------------------------
+|									|
+|                 [REMOVER INICIO]					|
+|									|
+|									|
+.
+
+|   --------------------------------------------------- 		|
+|  | O elemento do INICIO foi removido, o algoritimo   |		|
+|  | consiste em atualizar o apontador do inicio do    |		|
+|  | arranjo, para apontar ao sucessor do elemento     |		|
+|  | a ser removido e o apontador                      |		| 
+|   ---------------------------------------------------			|
+ -----------------------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -----------------------------------------------------------------------
+|									|
+|                 [REMOVER FIM]						|
+|									|
+|									|
+.
+
+|   --------------------------------------------------- 		|
+|  | O elemento do FIM foi removido, neste caso o      |		| 
+|  | apontador(prox) do antecessor e atualizado        |		|
+|   ---------------------------------------------------			|
+ -----------------------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -----------------------------------------------------------------------
+|									|
+|                 [REMOVER MEIO]					|
+|									|
+|									|
+.
+
+|   --------------------------------------------------  		|
+|  | O elemento da posicao 2 foi removido, aqui foi   | 		|
+|  | necessario atualizar o apontador(prox) do        | 		|
+|  | antecessor e o apontador(ant) do sucessor        | 		|
+|   ---------------------------------------------------			|
+ -----------------------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.

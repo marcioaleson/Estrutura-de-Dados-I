@@ -1,0 +1,158 @@
+
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё ESTE PROGRAMA MOSTRA AS OPERA─ЕES B╣SICAS                 Ё
+Ё SOBRE LISTAS SIMPLESMENTE ENCADEADAS DINAMICAS[LSED]:     Ё
+Ё [INSERIR]: INICIO, MEIO E FIM                             Ё
+Ё [REMOVER]: INICIO, MEIO E FIM                             Ё
+Ё [PESQUISAR]: POR POSI─фO E POR ELEMENTO                   Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar... 
+
++
+
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё EM CADA PASSO DO PROGRAMA AS VARIAVEIS E OS               Ё
+Ё PONTEIROS ENVOLVIDOS SфO EVIDENCIADOS PARA                Ё 
+Ё ASSIM MELHORAR O ENTENDIMENTO DO ALGORITMO.               Ё
+Ё NA REPRESENTA─фO DA LISTA O CARACTERE '/'                 Ё
+Ё FOI USADO PARA INDICAR QUE O PONTEIRO APONTA              Ё
+Ё PARA NULL.                                                Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar... 
+
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		A LISTA FOI CRIADA:                               Ё
+Ё                              					  Ё
+Ё								  Ё
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё O ponteiro que guarda a localizacao da lista PRIM na      Ё  Ё
+Ё  Ё memoria eh inicializado apontando para NULL, inidicando   Ё  Ё
+Ё  Ё que a lista esta vazia.                                   Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar... 
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO INICIO:                                Ё
+Ё                              					  Ё
+Ё								  Ё
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere A eh inserido no      Ё  Ё
+Ё  Ё inicio da lista. Como a lista esta vazia, o ponteiro      Ё  Ё
+Ё  Ё PRIM passa a apontar para esse novo NЮ [NЮ A]. O ponteiro Ё  Ё
+Ё  Ё PROX do NЮ inserido aponta para o antigo inicio da lista, Ё  Ё
+Ё  Ё que no caso, eh NULL.                                     Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar... 
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere B eh inserido no      Ё  Ё
+Ё  Ё final da lista. Como A eh o unico elemento na lista,      Ё  Ё
+Ё  Ё apenas temos que atualizar seu ponteiro PROX, que passa   Ё  Ё
+Ё  Ё a apontar para o novo NЮ inserido [NЮ B] e o PROX' de B   Ё  Ё  
+Ё  Ё passa a ser NULL.                                         Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere C eh inserido no      Ё  Ё 
+Ё  Ё final da lista. Eh necessario percorrer a lista ate o     Ё  Ё
+Ё  Ё elemento que esta no final da lista [NЮ B]. O ponteiro    Ё  Ё
+Ё  Ё PROX desse elemento [NЮ B] passa a apontar para o novo    Ё  Ё
+Ё  Ё NЮ inserido [NЮ C] e o PROX de C passa a ser NULL.        Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere 'D' eh inserido       Ё  Ё
+Ё  Ё no final da lista. Eh necessario percorrer a lista ate    Ё  Ё
+Ё  Ё o elemento que esta no final da lista [NЮ C]. O ponteiro  Ё  Ё
+Ё  Ё PROX desse elemento [NЮ C] passa a apontar para o novo    Ё  Ё
+Ё  Ё NЮ inserido [NЮ D] e o PROX de D passa a apontar para     Ё  Ё
+Ё  Ё NULL.                                                     Ё  Ё 
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO MEIO:                                  Ё
+Ё                              					  Ё
+Ё								  Ё
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere X eh inserido na      Ё  Ё
+Ё  Ё 3a posicao da lista. Eh necessario percorrer a lista      Ё  Ё
+Ё  Ё a procura do NЮ que aponta para o 3o elemento da lista,   Ё  Ё
+Ё  Ё que no caso eh o NЮ B. O ponteiro PROX do novo NЮ alocado Ё  Ё
+Ё  Ё [NЮ X] passa a apontar par o PROX do NЮ encontrado        Ё  Ё
+Ё  Ё [NЮ B] e o ponteiro PROX de B passa a apontar para o novo Ё  Ё
+Ё  Ё NЮ X.                                                     Ё  Ё 
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		REMOVER NO INICIO:                                Ё
+Ё                              					  Ё
+Ё								  Ё
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё O NЮ A eh removido do inicio da lista. O ponteiro PRIM    Ё  Ё
+Ё  Ё eh atualizado e passa a apontar para o PROX do NЮ A do    Ё  Ё
+Ё  Ё NЮ A, que no caso eh B, E O NЮ A eh desalocado da         Ё  Ё
+Ё  Ё memoria.                                                  Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		REMOVER NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё O NЮ D eh removido do final da lista. eh necessario       Ё  Ё
+Ё  Ё percorrer a lista em busca do elemento que esta no final  Ё  Ё
+Ё  Ё da lista e do elemento que antecede ele. O ultimo NЮ da   Ё  Ё
+Ё  Ё lista eh desalocado [NЮ D] e o PROX de seu antecessor     Ё  Ё
+Ё  Ё [que no caso eh C] passa a apontar para NULL.             Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		REMOVER NO MEIO:                                  Ё
+Ё                              					  Ё
+Ё								  Ё								  
++
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё O NЮ X eh removido da 2a posicao da lista. Eh necessario  Ё  Ё
+Ё  Ё percorrer a lista em busca do elemento que antecede X,    Ё  Ё
+Ё  Ё que no caso eh B. O PROX de B passa a apontar para o PROX Ё  Ё
+Ё  Ё de X. O NЮ X eh entфO desalocado da memoria.              Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++

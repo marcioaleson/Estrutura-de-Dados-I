@@ -1,0 +1,147 @@
+
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё ESTE PROGRAMA MOSTRA AS OPERA─ЕES B╣SICAS                 Ё
+Ё SOBRE LISTAS DUPLAMENTE ENCADEADAS DINAMICAS[LDE]:        Ё
+Ё [INSERIR]: INICIO, MEIO E FIM                             Ё
+Ё [REMOVER]: INICIO, MEIO E FIM                             Ё
+Ё [PESQUISAR]: POR POSI─фO E POR ELEMENTO                   Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar... 
+
++
+
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		A LISTA FOI CRIADA:                               Ё
+Ё                              					  Ё
+Ё								  Ё
++
+
+Ё								  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar... 
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO INICIO:                                Ё
+Ё                              					  Ё
+Ё								  Ё
+
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere A eh inserido no      Ё  Ё
+Ё  Ё inicio da lista. Como a lista esta vazia, o ponteiro      Ё  Ё
+Ё  Ё PROX do primeiro NЮ (NЮ de cabecalho) passa a apontar     Ё  Ё
+Ё  Ё para esse novo NЮ [NЮ A]. O Antecessor do NЮ inserido eh  Ё  Ё
+Ё  Ё atualziado.                                               Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar... 
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
+
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere B eh inserido no      Ё  Ё
+Ё  Ё final da lista. Como A eh o unico elemento na lista,      Ё  Ё
+Ё  Ё apenas temos que atualizar seu ponteiro PROX, que passa   Ё  Ё
+Ё  Ё a apontar para o novo NЮ inserido [NЮ B], o PROX' de B    Ё  Ё  
+Ё  Ё passa a ser NULL e o ANT de B passa a ser A.              Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
+
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere C eh inserido no      Ё  Ё 
+Ё  Ё final da lista. O ponteiro PROX de B passa a apontar para Ё  Ё
+Ё  Ё C e  o ANT de C aponta passa a apontar para B.            Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
+
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere D eh inserido no      Ё  Ё 
+Ё  Ё final da lista. O ponteiro PROX de C passa a apontar para Ё  Ё
+Ё  Ё D e  o ANT de D aponta passa a apontar para C.            Ё  Ё 
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		INSERIR NO MEIO:                                  Ё
+Ё                              					  Ё
+Ё								  Ё
+
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё Um novo NЮ eh alocado e o caractere X eh inserido na      Ё  Ё
+Ё  Ё 3a posicao da lista. O ponteiro PROX de X eh atualizado   Ё  Ё
+Ё  Ё e passa a apontar para o PROX de B. O antecessor de X     Ё  Ё
+Ё  Ё aponta para B.                                            Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		REMOVER NO INICIO:                                Ё
+Ё                              					  Ё
+Ё								  Ё
+
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё O NЮ A eh removido do inicio da lista. O ponteiro PROX    Ё  Ё
+Ё  Ё Do NЮ de cabecalho passa a apontar para o PROX do NЮ A,   Ё  Ё
+Ё  Ё que no caso eh B, E O NЮ A eh desalocado da memoria.      Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		REMOVER NO FIM:                                   Ё
+Ё                              					  Ё
+Ё								  Ё
+
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё O NЮ D eh removido do final da lista. O ultimo NЮ da      Ё  Ё
+Ё  Ё lista eh desalocado [NЮ D] e o PROX de seu antecessor     Ё  Ё
+Ё  Ё [que no caso eh C] passa a apontar para NULL.             Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++
+зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё		REMOVER NO MEIO:                                  Ё
+Ё                              					  Ё
+Ё								  Ё
+								  
++
+
+Ё  зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©  Ё
+Ё  Ё O NЮ X eh removido da 2a posicao da lista. O PROX de B    Ё  Ё
+Ё  Ё passa a apontar para o PROX de X. O antecessor de C       Ё  Ё
+Ё  Ё passa a ser B. O NЮ X eh entao desalocado da memoria.     Ё  Ё
+Ё  юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ Pressione ENTER para continuar...
++

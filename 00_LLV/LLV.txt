@@ -1,0 +1,171 @@
+  --------------------------------------------------
+ | ESTE PROGRAMA MOSTRA AS OPERAÄÂES BµSICAS        | 
+ | SOBRE LISTA LINEAR EM VETOR COM DESCRITOR [LLD]: |
+ | [INSERIR]: INICIO, MEIO E FIM                    |
+ | [REMOVER]: INICIO, MEIO E FIM                    |
+ | [PESQUISAR]: POR POSIÄ∆O E POR ELEMENTO          |
+  --------------------------------------------------
+
+ Pressione ENTER para continuar... 
+. 
+ 
+  ----------------------------------------
+ | EM CADA PASSO DO PROGRAMA AS VARIAVEIS |
+ | ENVOLVIDAS S∆O EVIDENCIADAS PARA ASSIM |
+ | MELHORAR O ENTENDIMENTO DO ALGORITMO   |
+  ----------------------------------------
+
+ Pressione ENTER para continuar... 
+.
+ 
+                 [ARRANJO ê INICIALIZADO:]
+
+
+. 
+
+ -------------------------------------------------------
+|							|
+|                 [INSERIR INICIO]			|
+|							|
+|							|
+.
+ 
+|   ----------------------------------------------	|
+|  | O elemento 'A' e inserido no inicio da lista |	|
+|  | como a lista nao possuia nenhum elemento 	  |	|
+|  | o INICIO e o FIM da lista foram atualizados  |	|
+|  | ao mesmo tempo.                              |	|
+|   ----------------------------------------------	|
+ -------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -------------------------------------------------------
+|							|
+|                 [INSERIR FIM]				|
+|							|
+|							|
+.
+
+|   ----------------------------------------------	|
+|  | O elemento 'B'e inserido no final da lista	  |	|
+|  | como a lista possuia espaco a direita nao foi|	|
+|  | necessario mover os elementos, bastou apenas |	|
+|  | atualizar a variavel FIM da lista e inserir  | 	|
+|  | o elmento					  |	|
+|   ----------------------------------------------	|
+ -------------------------------------------------------
+ 
+ Pressione ENTER para continuar...
+.
+
+ -------------------------------------------------------
+|							|
+|                 [INSERIR FIM]				|
+|							|
+|							|
+.
+
+|   ----------------------------------------------	|
+|  | O elemento 'C'e inserido no final da lista	  |	|
+|  | como a lista possuia espaco a direita nao foi|	|
+|  | necessario mover os elementos, bastou apenas |	|
+|  | atualizar a variavel FIM da lista e inserir  | 	|
+|  | o elmento					  |	|
+|   ----------------------------------------------	|
+ -------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -------------------------------------------------------
+|							|
+|                 [INSERIR FIM]				|
+|							|
+|							|
+.
+
+|    ----------------------------------------------	|
+|   | O elemento 'D'e inserido no final da lista   |	|
+|   | como a lista possuia espaco a direita nao foi|	|
+|   | necessario mover os elementos, bastou apenas |	|
+|   | atualizar a variavel FIM da lista e inserir  | 	|
+|   | o elmento					   |	|
+|    ----------------------------------------------	|
+ -------------------------------------------------------
+ Pressione ENTER para continuar...
+.
+
+ -------------------------------------------------------
+|							|
+|                 [INSERIR MEIO]			|
+|							|
+|							|
+.
+
+|   ---------------------------------------------------	|
+|  | O elemento 'X' e inserido na posicao 3 da lista   ||
+|  | como a lista nao possuia espaco a esquerda foi    ||
+|  | necessario mover os elementos para a direita e em ||
+|  | seguida atualizar a variavel FIM da lista e       ||
+|  | inserir o elemento na posicao desejada            ||
+|   ---------------------------------------------------	|
+ -------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -------------------------------------------------------
+|							|
+|                 [REMOVER INICIO]			|
+|							|
+|							|
+.
+
+|   --------------------------------------------------- |
+|  | O elemento do INICIO foi removido, o algoritimo   || 
+|  | para essa remocao e o mais simples basta atualizar||  
+|  | as variaveis do descritor conforme a necessidade. ||
+|   ---------------------------------------------------	|
+ -------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -------------------------------------------------------
+|							|
+|                 [REMOVER FIM]				|
+|							|
+|							|
+.
+
+|   --------------------------------------------------- |
+|  | O elemento do FIM foi removido, o algoritimo      || 
+|  | para essa remocao e outro simples basta atualizar ||  
+|  | as variaveis do descritor conforme a necessidade. ||
+|   ---------------------------------------------------	|
+ -------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
+
+ -------------------------------------------------------
+|							|
+|                 [REMOVER MEIO]			|
+|							|
+|							|
+.
+
+|   --------------------------------------------------  |
+|  | O elemento da posicao 2 foi removido, aqui foi   | | 
+|  | necessario movimentar os elementos de posicao    | |  
+|  | dentro vetor, ou seja os elementos da direita    | |
+|  | do elemento sobreescrevam um a sua esquerda para | |
+|  | assim "juntar" a lista novamente removendo o     | |
+|  | elemento.				              | |
+|   ---------------------------------------------------	|
+ -------------------------------------------------------
+
+ Pressione ENTER para continuar...
+.
